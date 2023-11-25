@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/coming-soon/static/css/main.e4b0f835.css",
+    "main.js": "/coming-soon/static/js/main.d02e0a5e.js",
+    "static/media/IBMPlexSans-MediumItalic.ttf": "/coming-soon/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
+    "static/media/IBMPlexSans-BoldItalic.ttf": "/coming-soon/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
+    "static/media/IBMPlexSans-Italic.ttf": "/coming-soon/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
+    "static/media/IBMPlexSans-Medium.ttf": "/coming-soon/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/coming-soon/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/coming-soon/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
+    "static/media/Shipping.jpg": "/coming-soon/static/media/Shipping.e3274d895e095cebfaf1.jpg",
+    "static/media/instagram.svg": "/coming-soon/static/media/instagram.83dd3049d6c49bcfdbdcd45b68858e32.svg",
+    "index.html": "/coming-soon/index.html",
+    "main.e4b0f835.css.map": "/coming-soon/static/css/main.e4b0f835.css.map",
+    "main.d02e0a5e.js.map": "/coming-soon/static/js/main.d02e0a5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4b0f835.css",
+    "static/js/main.d02e0a5e.js"
+  ]
+}
